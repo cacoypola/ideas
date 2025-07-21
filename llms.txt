@@ -1,0 +1,6 @@
+## Pages
+- [Admin - CACO&POLA](/admin): Panel de administración para gestionar ideas.
+- [Aviso Legal - CACO&POLA](/legal): Información legal, política de privacidad y términos de uso de CACO&POLA.
+- [Login Admin - CACO&POLA](/login): Página de inicio de sesión para administradores.
+- [Ver Ideas - CACO&POLA](/viewideas): Explora todas las ideas de diseño verificadas y aprobadas por nuestra comunidad.
+- [Votar Ideas - CACO&POLA](/voteideas): Vota por tus ideas favoritas en nuestro evento especial de votación.
